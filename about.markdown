@@ -16,18 +16,22 @@ Eventually Postgres caught her attention and EDB beamed her up. She enjoys techn
 * **[Dallas Oracle User Group](https://www.doug.org)** **Board of Directors**
 * **[Tracy Aviary]()** **Sponsor of the Chilean Flamingos.**
 
+ **2020: _"The year we all stayed home."_** 
+
 ## Upcoming Meetings and Events
 
 | **Date**          | **Time**  | **Venue**                  | Location     | **Event**            | Session                     | Registration 
 | ----------------- | --------- | -------------------------- | ------------ | -------------------- | --------------------------- | ------------  
-| August 19, 2020   | 12:00 CST | [Chicago Oracle Users Group](https://www.coug.us) | Webinar | [COUG 20 in 2020](https://coug.us/20in2020) | Postgres for the Oracle DBA | [Registration](https://oappsnet.zoom.us/webinar/register/WN_pcQhH1LKTJW9D8kjit-OaQ)
-| October 2, 2020   | All Day   | [Dallas Oracle User Group](https://www.doug.org) | Grapevine, Tx, USA | [DOUG Training Day 2020](https://doug.org/doug-training-day-2020/) | _Board Member_ | [Registration](https://doug.org/shop/database-forum/doug-training-day-2020/) |  
+
+ 
 
 
 ## Past Meetings and Events
 
 | **Date**            | **Time**     | **Venue**             | Location     | **Event**       | Session                     |                                                                                                     
 | ------------------- | ------------ | --------------------- | ------------ | --------------- | --------------------------- |                                                                                                      
+| October 2, 2020   | All Day   | [Dallas Oracle User Group](https://www.doug.org) | Grapevine, Tx, USA | [DOUG Training Day 2020](https://doug.org/doug-training-day-2020/) | _Board Member_ | [Registration](https://doug.org/shop/database-forum/doug-training-day-2020/) | 
+| August 19, 2020   | 12:00 CST | [Chicago Oracle Users Group](https://www.coug.us) | Webinar | [COUG 20 in 2020](https://coug.us/20in2020) | Postgres for the Oracle DBA | [Registration](https://oappsnet.zoom.us/webinar/register/WN_pcQhH1LKTJW9D8kjit-OaQ)
 | June 23, 2020       | 11:15 EDT    | Postgres Vision       | Webinar      | [PGVision 2020](https://onlinexperiences.com/scripts/Server.nxp?LASCmd=L:0&AI=1&ShowKey=88178&LoginType=0&InitialDisplay=1&ClientBrowser=0&DisplayItem=NULL&LangLocaleID=0&SSO=1&RFR=https://onlinexperiences.com/Launch/Event.htm?ShowKey=88178)  | [New Approaches to Integrating Oracle and Postgres Database Infrastructures](https://sched.co/cS0C) |
 | October 2, 2019     | All Day      | [Dallas Oracle Users Group](https://www.doug.org) | Grapevine, Tx, USA | [DOUG Training Day 2019](https://doug.org/doug-training-day-2019/) | _DOUG Board Member_ |
 | September 26, 2019  | 17:30 MDT    | [Utah Oracle Users Group](https://www.utoug.org) | Salt Lake City, UT, USA | [UTOUG Events](https://utoug.org/events) | [Data Migration Using Python](https://www.utoug.org/event-3552589?CalendarViewType=1&SelectedDate=9/3/2019) |
