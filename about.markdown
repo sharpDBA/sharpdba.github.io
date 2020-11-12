@@ -19,8 +19,8 @@ Eventually Postgres caught her attention and EDB beamed her up. She enjoys techn
 
 ## Upcoming Meetings and Events
 
-| **Date**          | **Time**  | **Venue**                  | Location     | **Event**            | Session                     | Registration 
-| ----------------- | --------- | -------------------------- | ------------ | -------------------- | --------------------------- | ------------  
+| **Date**          | **Time**  | **Venue**                  | Location     | **Event**            | Session                     | Registration |
+| ----------------- | --------- | -------------------------- | ------------ | -------------------- | --------------------------- | ------------ | 
 
  
 
@@ -34,8 +34,8 @@ Eventually Postgres caught her attention and EDB beamed her up. She enjoys techn
 | June 23, 2020       | 11:15 EDT    | Postgres Vision       | Webinar      | [PGVision 2020](https://onlinexperiences.com/scripts/Server.nxp?LASCmd=L:0&AI=1&ShowKey=88178&LoginType=0&InitialDisplay=1&ClientBrowser=0&DisplayItem=NULL&LangLocaleID=0&SSO=1&RFR=https://onlinexperiences.com/Launch/Event.htm?ShowKey=88178)  | [New Approaches to Integrating Oracle and Postgres Database Infrastructures](https://sched.co/cS0C) |
 
 ### 2019
-| **Date**          | **Time**  | **Venue**                  | Location     | **Event**            | Session                     | Registration 
-| ----------------- | --------- | -------------------------- | ------------ | -------------------- | --------------------------- | ------------  
+| **Date**          | **Time**  | **Venue**                  | Location     | **Event**            | Session                     | Registration |
+| ----------------- | --------- | -------------------------- | ------------ | -------------------- | --------------------------- | ------------ | 
 | October 2, 2019     | All Day      | [Dallas Oracle Users Group](https://www.doug.org) | Grapevine, Tx, USA | [DOUG Training Day 2019](https://doug.org/doug-training-day-2019/) | _DOUG Board Member_ |
 | September 26, 2019  | 17:30 MDT    | [Utah Oracle Users Group](https://www.utoug.org) | Salt Lake City, UT, USA | [UTOUG Events](https://utoug.org/events) | [Data Migration Using Python](https://www.utoug.org/event-3552589?CalendarViewType=1&SelectedDate=9/3/2019) |
 | June 25, 2019       | 8:50 PST     | [ODTUG](https://www.odtug.com/) | Seattle, WA, USA | [Kscope19](https://kscope19.odtug.com/) | [Python and Terraform for the Oracle Cloud DBA](https://kscope19.odtug.com/e/in/eid=32&req=info&s=2786&all=1) | 
