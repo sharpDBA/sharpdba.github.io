@@ -22,7 +22,9 @@ Eventually Postgres caught her attention and EDB beamed her up. She enjoys techn
 | **Date**          | **Time**  | **Venue**                  | Location     | **Event**            | Session                     | Registration |  
 | ----------------- | --------- | -------------------------- | ------------ | -------------------- | --------------------------- | ------------ |  
 
- 
+ | Date  | Time    | Venue | Location | Event | Session |
+|-------|---------|-------|----------|-------|---------|
+| 11/11 | All Day | Test  | Test     | Test  | Test    |
 
 ## Past Meetings and Events  
 ### 2020: _"The year we all stayed home."_ 
