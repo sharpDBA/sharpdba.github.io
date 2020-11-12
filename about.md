@@ -42,9 +42,9 @@ Eventually Postgres caught her attention and EDB beamed her up. She enjoys techn
 | May 14, 2019        | 12:00 EDT    | [ODTUG](https://www.odtug.com/) | Webinar      | [ODTUG Online Education](https://www.odtug.com/online-education)  | [Python and Terraform for the  Oracle Cloud DBA](https://www.odtug.com/p/cm/ld/fid=65&tid=84&sid=11685) | 
 | April 10, 2019      | Agenda unavailable | OAUG Forum            | San Antonio, TX, USA | [Collaborate 19](collaborate.oaug.org) | Growing Pains of a DBA: The Top 5 Tools For Evolution | 
 
- ### **2018: _"The year I stayed home."_**  
+### **2018: _"The year I stayed home."_**  
 
- ### 2017  
+### 2017  
 | **Date**            | **Venue**  | Location                   | **Event** | Session          |  
 | ------------------- | -----------| -------------------------- | ----------| -----------------|  
 | December 5, 2017    | UKOUG      | Birmingham, United Kingdom | Tech17    | Plugging Into 12c: I Took The Crash Course So You Don't Have To |   
