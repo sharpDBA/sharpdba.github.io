@@ -26,11 +26,9 @@ Eventually Postgres caught her attention and EDB beamed her up. She enjoys techn
 
 ## Past Meetings and Events  
 ### 2020: _"The year we all stayed home."_ 
-| **Date**            | **Time**     | **Venue**             | Location     | **Event**       | Session                     |                                                                                                     
-| ------------------- | ------------ | --------------------- | ------------ | --------------- | --------------------------- |                                                                                                      
-| October 2, 2020   | All Day   | [Dallas Oracle User Group](https://www.doug.org) | Grapevine, Tx, USA | [DOUG Training Day 2020](https://doug.org/doug-training-day-2020/) | _Board Member_ | [Registration](https://doug.org/shop/database-forum/doug-training-day-2020/) | 
-| August 19, 2020   | 12:00 CST | [Chicago Oracle Users Group](https://www.coug.us) | Webinar | [COUG 20 in 2020](https://coug.us/20in2020) | Postgres for the Oracle DBA | [Registration](https://oappsnet.zoom.us/webinar/register/WN_pcQhH1LKTJW9D8kjit-OaQ)
-| June 23, 2020       | 11:15 EDT    | Postgres Vision       | Webinar      | [PGVision 2020](https://onlinexperiences.com/scripts/Server.nxp?LASCmd=L:0&AI=1&ShowKey=88178&LoginType=0&InitialDisplay=1&ClientBrowser=0&DisplayItem=NULL&LangLocaleID=0&SSO=1&RFR=https://onlinexperiences.com/Launch/Event.htm?ShowKey=88178)  | [New Approaches to Integrating Oracle and Postgres Database Infrastructures](https://sched.co/cS0C) |
+| Date  | Time    | Venue | Location | Event | Session |
+|-------|---------|-------|----------|-------|---------|
+| 11/11 | All Day | Test  | Test     | Test  | Test    |
 
 ### 2019  
 | **Date**          | **Time**  | **Venue**                  | Location     | **Event**            | Session                     | Registration |  
