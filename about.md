@@ -19,7 +19,7 @@ Eventually Postgres caught her attention and EDB beamed her up. She enjoys techn
 
 ## Upcoming Meetings and Events  
 
-| **Date**          | **Time**  | **Venue**                  | Location     | **Event**            | Session                     | Registration |  
+ | **Date**          | **Time**  | **Venue**                  | Location     | **Event**            | Session                     | Registration |  
 | ----------------- | --------- | -------------------------- | ------------ | -------------------- | --------------------------- | ------------ |  
 
  | Date  | Time    | Venue | Location | Event | Session |
