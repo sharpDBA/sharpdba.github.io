@@ -24,7 +24,8 @@ Eventually Postgres caught her attention and EDB beamed her up. She enjoys techn
 
 
 ## Past Meetings and Events  
-### 2020: _"The year we all stayed home."_ 
+### 2020: _"The year we all stayed home."_  
+
 | Date       | Time      | Venue                      | Location | Event                        | Session                                                                    |
 |------------|-----------|----------------------------|----------|------------------------------|----------------------------------------------------------------------------|
 | October 23 | 15:30 MST | Utah Geek Events           | Virtual  | Big Mountain Data & Dev 2020 | PostgreSQL Autovacuum Tuning  Lessons From The Field                       |
@@ -33,6 +34,7 @@ Eventually Postgres caught her attention and EDB beamed her up. She enjoys techn
 | June 23    | 11:15 EDT | Postgres Vision            | Virtual  | PGVision 2020                | New Approaches to Integrating Oracle and Postgres Database Infrastructures |
 
 ### 2019  
+
 | Date         | Time               | Venue                     | Location                | Event                  | Session                                               |
 |--------------|--------------------|---------------------------|-------------------------|------------------------|-------------------------------------------------------|
 | October 2    | All Day            | Dallas Oracle Users Group | Grapevine, Tx, USA      | DOUG Training Day 2019 | DOUG Board Member                                     |
@@ -43,7 +45,8 @@ Eventually Postgres caught her attention and EDB beamed her up. She enjoys techn
 
 ### 2018: _"The year I stayed home."_  
 
-### 2017  
+### 2017   
+
 | Date       | Time        | Venue | Location                   | Event  | Session                                                         |
 |------------|-------------|-------|----------------------------|--------|-----------------------------------------------------------------|
 | December 5 | Unavailable | UKOUG | Birmingham, United Kingdom | Tech17 | Plugging Into 12c: I Took The Crash Course So You Don't Have To |
