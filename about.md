@@ -25,9 +25,9 @@ Eventually Postgres caught her attention and EDB beamed her up. She enjoys techn
 | Date       | Time      | Venue                      | Location | Event                        | Session                                                                    |
 |------------|-----------|----------------------------|----------|------------------------------|----------------------------------------------------------------------------|
 | October 23 | 15:30 MST | Utah Geek Events           | Virtual  | [Big Mountain Data & Dev 2020](https://www.utahgeekevents.com/events/big-mountain-data-dev-2020/schedule/) | PostgreSQL Autovacuum Tuning  Lessons From The Field                       |
-| October 2  | All Day   | Dallas Oracle User Group   | Virtual  | DOUG Training Day 2020       | Board Member                                                               |
-| August 19  | 12:00 CST | Chicago Oracle Users Group | Virtual  | COUG 20 in 2020              | Postgres for the Oracle DBA                                                |
-| June 23    | 11:15 EDT | Postgres Vision            | Virtual  | PGVision 2020                | New Approaches to Integrating Oracle and Postgres Database Infrastructures |
+| October 2  | All Day   | Dallas Oracle User Group   | Virtual  | [DOUG Training Day 2020](https://doug.org/doug-training-day-2020/)       | Board Member                                                               |
+| August 19  | 12:00 CST | Chicago Oracle Users Group | Virtual  | [COUG 20 in 2020](https://coug.us/20in2020)              | Postgres for the Oracle DBA                                                |
+| June 23    | 11:15 EDT | Postgres Vision            | Virtual  | [PGVision 2020](https://sched.co/cS0C)                | New Approaches to Integrating Oracle and Postgres Database Infrastructures |
 
 ### 2019  
 
