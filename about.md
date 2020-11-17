@@ -19,10 +19,6 @@ Eventually Postgres caught her attention and EDB beamed her up. She enjoys techn
 
 ## Upcoming Meetings and Events  
 
-| **Date**          | **Time**  | **Venue**                  | Location     | **Event**            | Session                     | Registration |  
-| ----------------- | --------- | -------------------------- | ------------ | -------------------- | --------------------------- | ------------ |  
-
-
 ## Past Meetings and Events  
 ### 2020: _"The year we all stayed home."_  
 
